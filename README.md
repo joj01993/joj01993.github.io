@@ -14,10 +14,10 @@ layout: default
  <p>What are we trying to do in our project is to create a Code repository inspection. We want to create a Code repository inspection because It's going to be a useful tools and we know that it is difficult to inspect a ropository and it could be very expensive.<p/> 
  <p> This Code repository inspection will:
  <p>  -Reduce common error code. <p/>
- <p>    -Reduce the cost of inspcetation<p/>
- <p>   - It is an open cource code so everyone can use.<p/>
+ <p>  -Reduce the cost of inspcetation<p/>
+ <p>  - It is an open cource code so everyone can use.<p/>
  <p>  - Everyone can use it within the organization.<p/>
- <>p<p/>
+ <p><p/>
  <p>  It will have the forllowing feature:  <p/>
  <p>  -Code repository inspection for syntax. <p/>
  <p>  -Code repository inspection forlicensing. <p/>
