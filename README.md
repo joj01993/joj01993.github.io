@@ -7,7 +7,6 @@ layout: default
 <p>* EDI Analsyt QA analyst Intership.
 <p>* Experience: database: Oracle, mySQL, EDI OERATOR.
 ###Technical Background
-<details>
  
   <p>EDI Analsyt in Spectrum Health, QA analyst Intership in Spectrum Health<p/>
   <p>Java, C#,database: Oracle, mySQL etc<p/>
@@ -29,6 +28,5 @@ layout: default
 
 Anticipated Technologies
 ### [favorite meme ](https://www.kodifiretvstick.com/wp-content/uploads/2017/11/Kodi-Erro-Log-Tech-Support.jpg)
-</details>
 
 
